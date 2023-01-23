@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+this is a testing file.
+only for testing.
+>>>>>>> c230473 (add other message in write1.txt)
